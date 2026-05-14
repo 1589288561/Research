@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+
+vit zynq pl golden/__pycache__/
+vit zynq pl golden/data/
+vit zynq pl golden/exports/
+
+vit zynq pl golden/**/*.pt
+!vit zynq pl golden/model_fixed_seed1234.pt
+!vit zynq pl golden/model_fixed_seed2026.pt
