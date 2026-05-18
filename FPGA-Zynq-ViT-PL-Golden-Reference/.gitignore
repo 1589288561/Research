@@ -1,0 +1,24 @@
+# Python cache and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Local dataset downloads
+data/
+
+# Questa / ModelSim generated files
+work/
+transcript
+vsim.wlf
+*.wlf
+*.vcd
+*.log
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
